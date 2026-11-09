@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://i.mjh.nz/all/epg.xml.gz"
-#EXTM3U
 #EXTINF:-1  tvg-id="a.e.network.canada.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/daystar-us.png" group-title="CA PREMIUM", A&E
 http://206.212.242.25/live/hhXjW5P/34695701563/21397.ts
 #EXTINF:-1  tvg-id="abc.wham.rochester.ny.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/daystar-us.png" group-title="CA PREMIUM", ABC East
