@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/all/epg.xml.gz"
+#EXTM3U url-tvg="https://i.mjh.nz/all/epg.xml.gz,https://iptv-epg.org/files/epg-us.xml,https://raw.githubusercontent.com/kyleabrahams/tv/main/scripts/www/epg.xml"
 #EXTINF:-1  tvg-id="cp24.ca" tvg-logo="https://static.imgb.in/logos/new/internacionais/canada.png" group-title="CA PREMIUM",CP24
 http://206.212.242.25/live/hhXjW5P/34695701563/20998.ts
 #EXTINF:-1  tvg-id="ctv.news.ca" tvg-logo="https://static.imgb.in/logos/new/internacionais/canada.png" group-title="CA PREMIUM",CTV News Network
